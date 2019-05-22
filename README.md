@@ -1,5 +1,7 @@
 # yelp-help
 
+Authors: Kristy Chen and Vivian Lee
+
 Many people use Yelp to find new restaurants and try the latest food trends. In fact, Yelp’s mission statement
 is “to connect people with great local businesses.” While the search service has certainly succeeded in allowing
 users to find highly rated businesses tailored to their needs, it often hurts businesses that are assigned lower
