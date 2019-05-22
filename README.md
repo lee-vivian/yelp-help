@@ -1,5 +1,7 @@
 # yelp-help
 
+An analysis of Yelp restaurant data. Uses 5-fold cross validation to identify the most significant features for a given niche and construct a final polr model to predict a restaurant's Yelp rating given certain feature values.
+
 Authors: Kristy Chen and Vivian Lee
 
 Many people use Yelp to find new restaurants and try the latest food trends. In fact, Yelp’s mission statement
